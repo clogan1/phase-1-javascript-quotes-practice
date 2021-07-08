@@ -1,3 +1,23 @@
 #quote-list {
   padding: 20px;
 }
+
+li button {
+  width: 30px;
+  height: 20px;
+  font-size: 11px;
+  text-align: center;
+}
+
+.like-count {
+  margin-top: 10px;
+  font-size: 14px;
+}
+
+.btn-edit {
+  width: 50px;
+}
+
+.submitbtn {
+  width: 50px;
+}
